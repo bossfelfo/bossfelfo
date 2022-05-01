@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 
--  ![bossFelfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossfelfo&show_icons=true&theme=blue-green)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bossfelfo&theme=gotham)](https://git.io/streak-stats)
+![bossFelfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossfelfo&show_icons=true&theme=blue-green)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bossfelfo&theme=gotham)](https://git.io/streak-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
