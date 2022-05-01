@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 I'm a Frontend Developer\
-🔭 &nbsp;I’m currently working on [Onltips Web App](https://github.com/OnlyTips-Dev)\
+🔭 &nbsp;I’m currently working on [Onlytips Web App](https://github.com/OnlyTips-Dev)\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm on track for learning three.js\
 ✍️ &nbsp;In my free time, I pursue Videograhy as a hobby/side hustles.\
