@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 You can call me Felix
 
 <!--
 **bossfelfo/bossfelfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-I'm a Frontend Developer
-🔭 &nbsp;I’m currently working on [Onltips Web App](https://github.com/OnlyTips-Dev)
+I'm a Frontend Developer\
+🔭 &nbsp;I’m currently working on [Onltips Web App](https://github.com/OnlyTips-Dev)\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm on track for learning three.js\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
